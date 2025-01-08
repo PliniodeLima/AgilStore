@@ -67,7 +67,7 @@ Esta é uma aplicação para gerenciamento de inventário da loja AgilStore, des
 ```
 .
 ├── inventory.js       # Código principal da aplicação
-├── inventory.json     # Arquivo para persistência de dados
+├── inventory.json     # Arquivo para armazenamento de dados
 └── README.md          # Documentação do projeto
 ```
 
