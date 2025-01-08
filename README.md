@@ -30,7 +30,7 @@ Esta é uma aplicação para gerenciamento de inventário da loja AgilStore, des
 5. **Buscar Produto**:
    - Realiza busca detalhada pelo ID ou parte do nome do produto.
 
-6. **Persistência de Dados**:
+6. **Armazenamento de Dados**:
    - Salva os produtos automaticamente em um arquivo `inventory.json`.
 
 ## Tecnologias Utilizadas
